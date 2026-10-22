@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+xgboost
+catboost
+joblib
+requests
+beautifulsoup4
+playwright
+streamlit
+selenium
+webdriver-manager
