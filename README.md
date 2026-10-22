@@ -173,9 +173,3 @@ python src/data_processing/run_feature_engineering.py
 3. **Difficulty & Time-to-Complete Balance**: Beginner-level, modular courses with flexible commitment windows attract the broadest audience, whereas advanced courses require strong brand reinforcement to achieve equivalent engagement.
 
 
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
